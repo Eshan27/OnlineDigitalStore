@@ -22,13 +22,13 @@
         include ('Template/_banner-ads.php');
     /*  include banner ads  */
 
-    /*  include new phones section  */
+    /*  include new phones section 
         include ('Template/_new-phones.php');
-    /*  include new phones section  */
+     include new phones section  */
 
-    /*  include blog area  */
+    /*  include blog area  
          include ('Template/_blogs.php');
-    /*  include blog area  */
+      include blog area  */
 
 ?>
 

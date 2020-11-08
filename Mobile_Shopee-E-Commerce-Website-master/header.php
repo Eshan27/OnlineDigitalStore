@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mobile Shopee</title>
+    <title>Gupta Electronics</title>
 
     <!-- Bootstrap CDN -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
@@ -28,10 +28,10 @@
 
 <!-- start #header -->
 <header id="header">
-    <div class="strip d-flex justify-content-between px-4 py-1 bg-dark">
+    <div class="strip d-flex justify-content-between py-1 bg-dark">
         <div class="font-rale font-size-14">
             <a href="#" class="px-3 border-right border-left text-light">Login</a>
-            <a href="#" class="px-3 border-right text-light">Wishlist (0)</a>
+            <a href="#" class="px-3 border-right text-light">Wishlist</a>
         </div>
     </div>
 

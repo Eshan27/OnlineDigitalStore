@@ -35,7 +35,7 @@
                         <span><i class="fas fa-star"></i></span>
                         <span><i class="far fa-star"></i></span>
                     </div>
-                    <a href="#" class="px-2 font-rale font-size-14">20,534 ratings | 1000+ answered questions</a>
+                    <a href="#" class="px-2 font-rale font-size-14">23 ratings | 100+ answered questions</a>
                 </div>
                 <hr class="m-0">
 
@@ -43,7 +43,7 @@
                 <table class="my-3">
                     <tr class="font-rale font-size-14">
                         <td>M.R.P:</td>
-                        <td><strike>$162.00</strike></td>
+                        <td><strike>Rs.40000.00</strike></td>
                     </tr>
                     <tr class="font-rale font-size-14">
                         <td>Deal Price:</td>
@@ -51,12 +51,12 @@
                     </tr>
                     <tr class="font-rale font-size-14">
                         <td>You Save:</td>
-                        <td><span class="font-size-16 text-danger">$152.00</span></td>
+                        <td><span class="font-size-16 text-danger">Rs.12000.00</span></td>
                     </tr>
                 </table>
                 <!---    !product price       -->
 
-                <!--    #policy -->
+                <!--    #policy 
                 <div id="policy">
                     <div class="d-flex">
                         <div class="return text-center mr-5">
@@ -79,30 +79,19 @@
                         </div>
                     </div>
                 </div>
-                <!--    !policy -->
+                   !policy -->
                 <hr>
 
                 <!-- order-details -->
                 <div id="order-details" class="font-rale d-flex flex-column text-dark">
-                    <small>Delivery by : Mar 29  - Apr 1</small>
-                    <small>Sold by <a href="#">Daily Electronics </a>(4.5 out of 5 | 18,198 ratings)</small>
-                    <small><i class="fas fa-map-marker-alt color-primary"></i>&nbsp;&nbsp;Deliver to Customer - 424201</small>
+                    <small>Sold by <a href="#">Daily Electronics </a>(4.5 out of 5 | 198 ratings)</small>
+                    <small><i class="fas fa-map-marker-alt color-primary"></i>&nbsp;&nbsp;Deliver to Customer - 400001</small>
                 </div>
                 <!-- !order-details -->
 
                 <div class="row">
                     <div class="col-6">
-                        <!-- color -->
-                        <div class="color my-3">
-                            <div class="d-flex justify-content-between">
-                                <h6 class="font-baloo">Color:</h6>
-                                <div class="p-2 color-yellow-bg rounded-circle"><button class="btn font-size-14"></button></div>
-                                <div class="p-2 color-primary-bg rounded-circle"><button class="btn font-size-14"></button></div>
-                                <div class="p-2 color-second-bg rounded-circle"><button class="btn font-size-14"></button></div>
-                            </div>
                         </div>
-                        <!-- !color -->
-                    </div>
                     <div class="col-6">
                         <!-- product qty section -->
                         <div class="qty d-flex">
@@ -117,31 +106,14 @@
                     </div>
                 </div>
 
-                <!-- size -->
-                <div class="size my-3">
-                    <h6 class="font-baloo">Size :</h6>
-                    <div class="d-flex justify-content-between w-75">
-                        <div class="font-rubik border p-2">
-                            <button class="btn p-0 font-size-14">4GB RAM</button>
-                        </div>
-                        <div class="font-rubik border p-2">
-                            <button class="btn p-0 font-size-14">6GB RAM</button>
-                        </div>
-                        <div class="font-rubik border p-2">
-                            <button class="btn p-0 font-size-14">8GB RAM</button>
-                        </div>
-                    </div>
-                </div>
-                <!-- !size -->
-
 
             </div>
 
             <div class="col-12">
                 <h6 class="font-rubik">Product Description</h6>
                 <hr>
-                <p class="font-rale font-size-14">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellat inventore vero numquam error est ipsa, consequuntur temporibus debitis nobis sit, delectus officia ducimus dolorum sed corrupti. Sapiente optio sunt provident, accusantium eligendi eius reiciendis animi? Laboriosam, optio qui? Numquam, quo fuga. Maiores minus, accusantium velit numquam a aliquam vitae vel?</p>
-                <p class="font-rale font-size-14">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellat inventore vero numquam error est ipsa, consequuntur temporibus debitis nobis sit, delectus officia ducimus dolorum sed corrupti. Sapiente optio sunt provident, accusantium eligendi eius reiciendis animi? Laboriosam, optio qui? Numquam, quo fuga. Maiores minus, accusantium velit numquam a aliquam vitae vel?</p>
+                <p class="font-rale font-size-14"></p>
+                <p class="font-rale font-size-14"></p>
             </div>
         </div>
     </div>
