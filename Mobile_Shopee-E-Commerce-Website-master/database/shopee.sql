@@ -66,9 +66,9 @@ INSERT INTO `product` (`item_id`, `item_brand`, `item_name`, `item_price`, `item
 (10, 'Samsung', 'Galaxy S8 Plus', 53990, './assets/products/14.png', '2020-03-28 11:08:57'),
 (11, 'Apple', 'iPhone 10', 102180, './assets/products/13.png', '2020-03-28 11:08:57'),
 (12, 'Samsung', 'Galaxy S2', 13000, './assets/products/12.png', '2020-03-28 11:08:57'),
-(13, 'Nikon', 'Nikon D3500 DSLR', 32999, './assets/products/15.png', '2020-03-28 11:08:57');
-(14, 'Philips', 'HD9220 Airfryer', 12000, './assets/products/7.png', '2020-03-28 11:08:57');
-(16, 'Voltas', 'Becko WM(7Kg)', 14290, './assets/products/16.png', '2020-03-28 11:08:57');
+(13, 'Nikon', 'Nikon D3500 DSLR', 32999, './assets/products/15.png', '2020-03-28 11:08:57'),
+(14, 'Philips', 'HD9220 Airfryer', 12000, './assets/products/7.png', '2020-03-28 11:08:57'),
+(16, 'Voltas', 'Becko WM(7Kg)', 14290, './assets/products/16.png', '2020-03-28 11:08:57'),
 (17, 'JBL', 'Partybox500', 8999, './assets/products/17.png', '2020-03-28 11:08:57');
 
 -- --------------------------------------------------------
